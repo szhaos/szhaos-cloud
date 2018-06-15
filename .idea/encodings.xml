@@ -4,12 +4,11 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-backend" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-backend/szhaos-admin" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/szhaos-backend/szhaos-admin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-backend/szhaos-cms" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka/.mvn/szhaos-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-feign" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon" charset="UTF-8" />
   </component>
 </project>
