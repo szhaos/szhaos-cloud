@@ -17,6 +17,7 @@
         <module>szhaos-eureka</module>
         <module>szhaos-feign</module>
         <module>szhaos-ribbon</module>
+        <module>szhaos-config</module>
     </modules>
 
 

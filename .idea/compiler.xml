@@ -11,6 +11,7 @@
         <module name="szhaos-config" />
         <module name="szhaos-eureka" />
         <module name="szhaos-feign" />
+        <module name="szhaos-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

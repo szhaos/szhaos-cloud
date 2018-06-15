@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-service.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-service.iml" />
     </modules>
   </component>
