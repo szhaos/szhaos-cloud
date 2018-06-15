@@ -9,6 +9,7 @@
         <module name="szhaos-admin" />
         <module name="szhaos-cms" />
         <module name="szhaos-config" />
+        <module name="szhaos-config-client" />
         <module name="szhaos-eureka" />
         <module name="szhaos-feign" />
         <module name="szhaos-ribbon" />
@@ -20,6 +21,7 @@
       <module name="szhaos-cloud" target="1.8" />
       <module name="szhaos-cms" target="1.8" />
       <module name="szhaos-config" target="1.8" />
+      <module name="szhaos-config-client" target="1.8" />
       <module name="szhaos-eureka" target="1.8" />
       <module name="szhaos-feign" target="1.8" />
       <module name="szhaos-ribbon" target="1.8" />
