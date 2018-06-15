@@ -13,4 +13,13 @@ public class TestController {
     public String test(){
         return testService.test();
     }
+
+    /**
+     * 从szhaos-config-client获取配置文件中的参数
+     * @return
+     */
+    @RequestMapping(value = "/testConfig")
+    public String testConfig(){
+        return testService.testConfig();
+    }
 }

@@ -18,4 +18,14 @@ public class TestService {
     public String testError() {
         return "hi,sorry,error!";
     }
+
+
+    @HystrixCommand(fallbackMethod = "testConfigError")
+    public String testConfig() {
+        return restTemplate.getForObject("http://TESTSERVICE/test",String.class);
+    }
+
+    public String testConfigError() {
+        return "hi,sorry,testConfig error!";
+    }
 }
