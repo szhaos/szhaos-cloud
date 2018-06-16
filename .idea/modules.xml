@@ -3,13 +3,20 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/szhaos-backend/szhaos-admin/szhaos-admin.iml" filepath="$PROJECT_DIR$/szhaos-backend/szhaos-admin/szhaos-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-backend/szhaos-admin/szhaos-admin.iml" filepath="$PROJECT_DIR$/szhaos-backend/szhaos-admin/szhaos-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-backend/szhaos-backend.iml" filepath="$PROJECT_DIR$/szhaos-backend/szhaos-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-cloud.iml" filepath="$PROJECT_DIR$/szhaos-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-backend/szhaos-cms/szhaos-cms.iml" filepath="$PROJECT_DIR$/szhaos-backend/szhaos-cms/szhaos-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-backend/szhaos-cms/szhaos-cms.iml" filepath="$PROJECT_DIR$/szhaos-backend/szhaos-cms/szhaos-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-config/szhaos-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-config-client/szhaos-config-client.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-config-client/szhaos-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-config-client/szhaos-config-client.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-config-client/szhaos-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-eureka/szhaos-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-feign/szhaos-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-service.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-service.iml" />
     </modules>
