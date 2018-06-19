@@ -12,5 +12,6 @@
     <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-eureka/.mvn/szhaos-ribbon" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/szhaos-service/szhaos-zipkin" charset="UTF-8" />
   </component>
 </project>

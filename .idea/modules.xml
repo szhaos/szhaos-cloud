@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-ribbon/szhaos-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-service.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/szhaos-service/szhaos-zipkin/szhaos-zipkin.iml" filepath="$PROJECT_DIR$/szhaos-service/szhaos-zipkin/szhaos-zipkin.iml" />
     </modules>
   </component>
 </project>

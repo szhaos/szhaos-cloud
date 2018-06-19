@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/szhaos-backend/szhaos-cms/pom.xml" />
         <option value="$PROJECT_DIR$/szhaos-service/szhaos-config/pom.xml" />
         <option value="$PROJECT_DIR$/szhaos-service/szhaos-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/szhaos-service/szhaos-zipkin/pom.xml" />
       </list>
     </option>
   </component>

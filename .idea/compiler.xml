@@ -13,6 +13,7 @@
         <module name="szhaos-eureka" />
         <module name="szhaos-feign" />
         <module name="szhaos-ribbon" />
+        <module name="szhaos-zipkin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +27,7 @@
       <module name="szhaos-feign" target="1.8" />
       <module name="szhaos-ribbon" target="1.8" />
       <module name="szhaos-service" target="1.8" />
+      <module name="szhaos-zipkin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

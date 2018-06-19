@@ -18,6 +18,8 @@
         <module>szhaos-feign</module>
         <module>szhaos-ribbon</module>
         <module>szhaos-config</module>
+        <module>szhaos-config-client</module>
+        <module>szhaos-zipkin</module>
     </modules>
 
 
